@@ -228,7 +228,7 @@ body {
 
 /* HERO */
 .hero-scene {
-    background: linear-gradient(135deg, rgba(0,0,0,0.7), rgba(255,20,147,0.3)), url('images/scene-hero.jpg');
+    background: linear-gradient(135deg, rgba(0,0,0,0.7), rgba(255,20,147,0.3)), url('images/scene-hero.jpeg');
     background-size: cover;
     background-position: center;
     min-height: 60vh;
